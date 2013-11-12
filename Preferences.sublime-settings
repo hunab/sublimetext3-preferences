@@ -1,33 +1,33 @@
 {
-	// VISUAL
-	"theme": "Flatland Dark.sublime-theme",
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Blue.tmTheme",
-	"bold_folder_labels": true,
-	"highlight_line": true,
-	"highlight_modified_tabs": true,
+  // VISUAL
+  "theme": "Flatland Dark.sublime-theme",
+  "color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Blue.tmTheme",
+  "bold_folder_labels": true,
+  "highlight_line": true,
+  "highlight_modified_tabs": true,
 
-	// TEXT FORMATTING
-	"indent_guide_options":["draw_active"],
-	"match_brackets_angle": true,
-	"move_to_limit_on_up_down": true,
-	"scroll_past_end": false,
-	"tab_size": 2,
-	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
+  // TEXT FORMATTING
+  "indent_guide_options":["draw_active"],
+  "match_brackets_angle": true,
+  "move_to_limit_on_up_down": true,
+  "scroll_past_end": false,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": true,
+  "trim_trailing_white_space_on_save": true,
+  "word_wrap": true,
 
-	// MISC
-	"close_windows_when_empty": true,
-	"remember_open_files": true,
-	"remember_open_folders": true,
+  // MISC
+  "close_windows_when_empty": true,
+  "remember_open_files": true,
+  "remember_open_folders": true,
 
-	// Hayaku
-	"hayaku_CSS_colors_case": "lowercase",
-	"hayaku_CSS_prefixes_disable": true,
+  // Hayaku
+  "hayaku_CSS_colors_case": "lowercase",
+  "hayaku_CSS_prefixes_disable": true,
 
-	// TernJS
-	"auto_complete_triggers": [ {"selector": "text.html", "characters": "<"}, {"selector": "source.js", "characters": "."} ],
+  // TernJS
+  "auto_complete_triggers": [ {"selector": "text.html", "characters": "<"}, {"selector": "source.js", "characters": "."} ],
 
-	// IGNORED PACKAGES
-	"ignored_packages":["Vintage"]
+  // IGNORED PACKAGES
+  "ignored_packages":["Vintage"]
 }
